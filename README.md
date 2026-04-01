@@ -104,4 +104,31 @@ I found patterns in trip times, fares, and pickup locations.
 
 ---
 
+## COVID-19 Clinical Trials Surveillance Model — Python & R
+
+### What I Did
+Built an exploratory analysis and interactive dashboard on 5,783 
+global COVID-19 clinical trials sourced from ClinicalTrials.gov.
+
+### Key Outputs
+- Interactive 6-panel dashboard (trial status, launch volume, 
+  enrollment by phase, study type, funder breakdown)
+- Trend correlation analysis across trial phases and launch years
+- Pearson r = −0.47 between trial volume and average enrollment
+
+### Key Findings
+- Trial launches surged 48× between 2019 and 2020 (93 → 4,465)
+- Phase 3 trials account for the largest enrollment share (~1.47M)
+- 73% of trials were non-profit or institutionally funded
+
+### Tools & Libraries
+Python: pandas, plotly  
+R: tidyverse, plotly, htmlwidgets, scales
+
+### Live Dashboard
+[View Interactive Dashboard](https://antonnio-macharia.github.io/covid19-trials-surveillance)
+
+---
 *Antonnio Macharia — 2026*
+
+
