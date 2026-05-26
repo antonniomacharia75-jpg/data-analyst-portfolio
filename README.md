@@ -113,16 +113,6 @@ Built an exploratory analysis and interactive dashboard on 5,783 global COVID-19
 
 ---
 
-## Hadoop — NYC Taxi Data
-
-**File:** Hadoop_Hive_-_NYC_Yellow_Taxi_Case_Study.txt
-
-I used Hive to look at millions of NYC taxi trips. I found patterns in trip times, fares, and pickup locations.
-
-**Tools used:** Hadoop, Hive, HiveQL
-
----
-
 ## COVID-19 Clinical Trials Surveillance Model — R
 
 **Tools used:** R (tidyverse, plotly, htmlwidgets, scales)
